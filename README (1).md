@@ -1,5 +1,6 @@
 # Corner Shop – E-Commerce Web App
 Live link : https://your-site.onrender.com
+
 Simple full-stack store: product catalog, cart, checkout, order tracking, JWT login with Admin/User roles.
 
 **Stack:** Node.js, Express, MongoDB (Mongoose), vanilla HTML/CSS/JS frontend.
